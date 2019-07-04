@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CriarLista.dir/main.c.o  -o CriarLista 
